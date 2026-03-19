@@ -1,5 +1,11 @@
-Developed and benchmarked Deep Learning models for autonomous object detection, comparing processing efficiency across different hardware architectures.
+# Performance Benchmarking: CPU vs. GPU in Barcode Detection
 
-Key Responsibilities:
-- Analyzed critical metrics like mAP, IoU, and energy consumption to determine the best solution for real-time robotic applications.
-- Integrated the trained models into a ROS2/Webots environment to validate performance in a simulated robotic warehouse scenario.
+This project was developed during my **Master's in Autonomous Systems**. It focuses on evaluating Deep Learning models for real-time applications.
+
+## Key Features
+- **Simulation Environment:** Webots & ROS2.
+- **Models Tested:** YOLOv8, YOLOv5, and Faster R-CNN.
+- **Metrics:** mAP, IoU, Inference Time, and Energy Consumption.
+
+## Tools Used
+Python, PyTorch, OpenCV, Roboflow, and Webots.
