@@ -44,9 +44,9 @@ To ensure bounding box stability in a logistics/retail context, the following hy
 
 ## 📁 Project Structure
 * **`Code/`**: Python scripts for real-time inference, tracking, and benchmarking.
-* **`Weights/`**: Custom-trained YOLOv8 model (`.pt` file).
+* **`Weights/`**: Custom-trained YOLOv8 model ('.pt' file) and ByteTrack config.
 * **`Project Documentation/`**: Full technical paper with detailed methodology and experimental results.
   
 ---
 ## 📸 In Action
-![System Demo]()
+![System Demo](Media/Barcode_Tracking_GIF.gif)
