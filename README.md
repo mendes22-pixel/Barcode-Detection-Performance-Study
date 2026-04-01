@@ -15,7 +15,7 @@ This project was developed as part of the **Master's Degree in Autonomous System
 
 ---
 
-## 🧠 Model Selection & Benchmarking
+## 🧠 Model Selection and Benchmarking
 Before implementing the final tracking pipeline, several architectures were tested within a **Webots & ROS2** simulation environment to find the optimal balance between precision and speed.
 
 * **Models Tested:** YOLOv8, Faster R-CNN, SSD (Single Shot Detector), and RetinaNet.
